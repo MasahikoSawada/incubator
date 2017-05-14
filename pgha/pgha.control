@@ -1,0 +1,4 @@
+# pgha extension
+comment = 'simple clustring module'
+default_version = '1.0'
+module_pathname = '$libdir/pgha'
